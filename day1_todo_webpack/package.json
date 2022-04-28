@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "css-loader": "^6.6.0",
+    "path": "^0.12.7",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "name": "webpacks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "build:w": "webpack --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

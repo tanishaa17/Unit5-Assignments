@@ -1,0 +1,1 @@
+(()=>{let e=document.createElement("tr"),t=document.createElement("td");t.innerText=elem.Date;let n=document.createElement("td");n.innerText=elem.Notes;let m=document.createElement("td");m.innerText=elem.Time,e.append(t,n,m),document.querySelector("tbody").append(e)})();

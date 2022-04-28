@@ -1,0 +1,22 @@
+{
+  "name": "u5a3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sparkenstein/U5A3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sparkenstein/U5A3/issues"
+  },
+  "homepage": "https://github.com/Sparkenstein/U5A3#readme",
+  "dependencies": {
+    "react-router-dom": "^6.2.2"
+  }
+}

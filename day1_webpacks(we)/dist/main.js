@@ -1,0 +1,1 @@
+(()=>{"use strict";function e(e,o){return e/o}console.log(13),console.log(e(24,5)),console.log(e(24,4));const o=document.createElement("h1");o.innerText="Welcome to Webpack",o.classList.add("textColor"),document.getElementById("root").append(o)})();

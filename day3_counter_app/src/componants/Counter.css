@@ -1,0 +1,9 @@
+button{
+    padding: 1%;
+}
+.App{
+    width: 30%;
+    height: 150px;
+    margin: auto;
+    border: 2px solid;
+}
